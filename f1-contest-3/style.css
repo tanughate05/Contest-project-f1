@@ -1,0 +1,20 @@
+.container-fluid{
+    background-color: white;
+}
+.carousel-item{
+    height: 120vh;
+}
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container-flex{
+    width:100%;
+    min-height: 100vh;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+}
